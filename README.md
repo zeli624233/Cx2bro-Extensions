@@ -1,6 +1,6 @@
 # Cx2bro-Extensions
 [Cx2bro](https://github.com/zeli624233/Cx2bro)项目支持的游戏列表：
-### Orthrossoft（双头犬社）
+### Orthros（双头犬社）
 
 | 入库编号 | 日文原名 | 发售日期 | 解包成功率 | 贡献者 | 入库日期 | 备注 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
