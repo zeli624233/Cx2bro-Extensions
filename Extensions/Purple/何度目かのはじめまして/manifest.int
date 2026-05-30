@@ -1,0 +1,22 @@
+﻿CXDEC-MANIFEST-INT	1
+[Meta]
+Game=何度目かのはじめまして
+HashSeed=xp3hnp
+Format=manifest.int
+PackageMode=int-rules-lz
+ResourcePaths=7013
+Summary=学姐好棒！
+Brand=Purple
+Contributor=ユイ可愛ね
+Author=ユイ可愛ね
+Version=CxdecV2
+Date=2026-05-30
+
+[Validation]
+TotalFiles = 7638
+RestoredFiles = 7028
+Passed = yes
+SuccessRate = 92.01%
+PackageBytes = 12460
+PackageSizeKB = 12.2
+Error = 
