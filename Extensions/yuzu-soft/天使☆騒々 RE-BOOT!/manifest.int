@@ -1,0 +1,22 @@
+﻿CXDEC-MANIFEST-INT	1
+[Meta]
+Brand=yuzu-soft
+Game=天使☆騒々 RE-BOOT!
+HashSeed=xp3hnp
+Format=manifest.int
+PackageMode=minimal-voice-rules
+ResourcePaths=79041
+Summary=我记得这个游戏是有未加密版本的，可以去找找看！
+Contributor=ユイ可愛ね
+Author=ユイ可愛ね
+Version=CxdecV2
+Date=2026-06-01
+
+[Validation]
+TotalFiles = 58361
+RestoredFiles = 54461
+Passed = yes
+SuccessRate = 93.32%
+PackageBytes = 14427
+PackageSizeKB = 14.1
+Error = 

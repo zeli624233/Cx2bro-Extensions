@@ -1,0 +1,22 @@
+﻿CXDEC-MANIFEST-INT	1
+[Meta]
+Game=ましろ色シンフォニー SANA EDITION
+HashSeed=xp3hnp
+Format=manifest.int
+PackageMode=int-rules-lz
+ResourcePaths=40096
+Summary=sana的语音是完整的，cg也是完整的，难道这玩意是前作的一部分？，不然为什么会有那么多未使用的语音？
+Brand=Palette
+Contributor=ユイ可愛ね
+Author=ユイ可愛ね
+Version=DL
+Date=2026-06-01
+
+[Validation]
+TotalFiles = 37937
+RestoredFiles = 25428
+Passed = yes
+SuccessRate = 67.03%
+PackageBytes = 29187
+PackageSizeKB = 28.5
+Error = 

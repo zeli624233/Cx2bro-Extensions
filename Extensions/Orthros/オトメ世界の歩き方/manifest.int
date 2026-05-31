@@ -1,0 +1,22 @@
+﻿CXDEC-MANIFEST-INT	1
+[Meta]
+Game=オトメ世界の歩き方
+HashSeed=xp3hnp
+Format=manifest.int
+PackageMode=minimal-voice-rules
+ResourcePaths=18813
+Summary=ユイ可愛ね！
+Brand=Orthros
+Contributor=ユイ可愛
+Author=ユイ可愛
+Version=CxdecV2
+Date=2026-05-31
+
+[Validation]
+TotalFiles = 18216
+RestoredFiles = 17291
+Passed = yes
+SuccessRate = 94.92%
+PackageBytes = 12826
+PackageSizeKB = 12.5
+Error = 

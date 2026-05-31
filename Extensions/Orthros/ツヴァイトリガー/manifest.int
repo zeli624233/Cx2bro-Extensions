@@ -1,0 +1,22 @@
+﻿CXDEC-MANIFEST-INT	1
+[Meta]
+Brand=Orthros
+Game=ツヴァイトリガー
+HashSeed=xp3hnp
+Format=manifest.int
+PackageMode=minimal-voice-rules
+ResourcePaths=17076
+Summary=双男主不感冒，仅做测试。
+Contributor=ユイ可愛ね
+Author=ユイ可愛ね
+Version=CxdecV2
+Date=2026-05-31
+
+[Validation]
+TotalFiles = 16583
+RestoredFiles = 13490
+Passed = yes
+SuccessRate = 81.37%
+PackageBytes = 9453
+PackageSizeKB = 9.2
+Error = 
